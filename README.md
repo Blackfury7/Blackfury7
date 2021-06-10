@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hi, I'm Divyanshu 👋 I'm a 🚀 DJANGO developer 🚀 I ❤️ REST ❤️](https://github.com/Blackfury7/raw/master/assets/gojo.gif)
+![Hi, I'm Divyanshu I'm a DJANGO developer](https://github.com/Blackfury7/raw/master/assets/gojo.gif)
 
 <img width="65%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <br><br>
 <h2><b><u> REACH ME OUT!!</u>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Divyanshu Sharma-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/divyanshu-sharma-7a4473195/)<br>
-[![GMAIL Badge](https://img.shields.io/badge/-Divyanshu Sharma-FF0000?style=for-the-badge&labelColor=&logo=gmail&logoColor=white)](divyanshusharmabb07@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-DivyanshuSharma-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/divyanshu-sharma-7a4473195/)<br>
+[![GMAIL Badge](https://img.shields.io/badge/-DivyanshuSharma-FF0000?style=for-the-badge&labelColor=&logo=gmail&logoColor=white)](divyanshusharmabb07@gmail.com)
 
 
 <br><br>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [![DJANGO BADGE](https://img.shields.io/badge/-django-8db600?style=for-the-badge&labelColor=black&logo=django&logoColor=8db600)](#)[![DRF](https://img.shields.io/badge/-djangorestframework-ADD8E6?style=for-the-badge&labelColor=black&logo=djangorestframework&logoColor=8db600)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![PYTHON Badge](https://img.shields.io/badge/-python-ADD8E6?style=for-the-badge&labelColor=black&logo=python&logoColor=ADD8E6F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Expressjs Badge](https://img.shields.io/badge/-expressjs-CCCC00?style=for-the-badge&labelColor=black&logo=node.js&logoColor=CCCC00)](#) 
 [![Angularjs Badge](https://img.shields.io/badge/-angularjs-722F37?style=for-the-badge&labelColor=black&logo=angularjs&logoColor=722F37)](#)
-[![CELERY BADGE](https://img.shields.io/badge/-celery-8db600?style=for-the-badge&labelColor=black&logo=django&logoColor=8db600)](#)
+[![CELERY BADGE](https://img.shields.io/badge/-celery-8db600?style=for-the-badge&labelColor=black&logo=celery&logoColor=8db600)](#)
 
 ⚡ I'M CURRENTLY LEARNING
 
