@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hi, I'm Divyanshu I'm a DJANGO developer](https://github.com/Blackfury7/Blackfury7/blob/main/assets/gojo_dp.jpg)
+![Hi, I'm Divyanshu I'm a DJANGO developer](https://github.com/Blackfury7/Blackfury7/blob/main/assets/gojo1.gif)
 
 <img width="65%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
