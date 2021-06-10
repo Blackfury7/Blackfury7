@@ -1,32 +1,30 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+![Hi, I'm Divyanshu I'm a DJANGO developer](https://github.com/Blackfury7/Blackfury7/blob/main/assets/gojo1.gif)
+<br><br>
 
 <!--
 **Blackfury7/Blackfury7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-![Hi, I'm Divyanshu I'm a DJANGO developer](https://github.com/Blackfury7/Blackfury7/blob/main/assets/gojo1.gif)
-
-<img width="65%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
+- 🔭 I’m currently working on **B2B Django Project**
+- 🌱 I’m currently learning **Data Structure & Algorithms and React js**
+- 👯 I’m looking to collaborate on **Python/Django Projects**
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me **divyanshusharmabb07@gmail.com**
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: I like to play **basketball & football**
 <br><br>
-<h2><b><u> REACH ME OUT!!</u>
+<img width="65%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<h2><b><u> CONNECT WITH ME ON!!</u>
 
 [![Linkedin Badge](https://img.shields.io/badge/-DivyanshuSharma-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-sharma-7a4473195/)<br>
 <!-- [![GMAIL Badge](https://img.shields.io/badge/-DivyanshuSharma-FF0000?style=for-the-badge&labelColor=&logo=gmail&logoColor=white)](divyanshusharmabb07@gmail.com) -->
 
 
-<br><br>
+<br><br><br><br>
 ⚡ TECH I HAVE WORKED/WORKING ON 
 
 
