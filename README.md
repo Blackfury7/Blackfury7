@@ -9,22 +9,22 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on **B2B Django Project**
-- 🌱 I’m currently learning **Data Structure & Algorithms and React js**
+- 🌱 I’m currently learning **Data Structure and Algorithms & React js**
 - 👯 I’m looking to collaborate on **Python/Django Projects**
+- 📫 How to reach me **divyanshusharmabb07@gmail.com**
+- ⚡ Fun fact: I like to play **basketball & football**
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me **divyanshusharmabb07@gmail.com**
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I like to play **basketball & football**
 <br><br>
 <img width="65%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<h2><b><u> CONNECT WITH ME ON!!</u>
+<h2><b><u> CONNECT WITH ME!!</u>
 
 [![Linkedin Badge](https://img.shields.io/badge/-DivyanshuSharma-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-sharma-7a4473195/)<br>
 <!-- [![GMAIL Badge](https://img.shields.io/badge/-DivyanshuSharma-FF0000?style=for-the-badge&labelColor=&logo=gmail&logoColor=white)](divyanshusharmabb07@gmail.com) -->
 
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 ⚡ TECH I HAVE WORKED/WORKING ON 
 
 
