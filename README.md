@@ -8,8 +8,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on **B2B Django Project**
-- 🌱 I’m currently learning **Data Structure and Algorithms & React js**
+- 🔭 I’m currently working on a **B2C E-com Project**
+- 🌱 I’m currently learning **Data Structure and Algorithms**
 - 👯 I’m looking to collaborate on **Python/Django Projects**
 - 📫 How to reach me **divyanshusharmabb07@gmail.com**
 - ⚡ Fun fact: I like to play **basketball & football**
