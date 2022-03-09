@@ -47,6 +47,10 @@ Here are some ideas to get you started:
 
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Blackfury7&theme=dark)
+  
+  
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Blackfury7&" alt="Blackfury7" /></p>
 
 <h3> ⚙️  GitHub Analytics </h3>
 <img src="https://activity-graph.herokuapp.com/graph?username=Blackfury7&theme=react-dark"/>
