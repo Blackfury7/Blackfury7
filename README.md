@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- - 🔭 I’m currently working on a **B2C E-com Project** -->
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🌱 I’m currently learning about **CLOUD**
 - 👯 I’m looking to collaborate on **Python/Django Projects**
 - 📫 How to reach me **divyanshusharmabb07@gmail.com**
 - ⚡ Fun fact: I like to play **basketball & football**
@@ -37,19 +37,25 @@ Here are some ideas to get you started:
  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
  [![Expressjs Badge](https://img.shields.io/badge/-expressjs-CCCC00?style=for-the-badge&labelColor=black&logo=node.js&logoColor=CCCC00)](#)
  [![mongodb](https://img.shields.io/badge/-mongodb-008000?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=ADD8E6F)](#)
- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+
 <!-- [![Angularjs Badge](https://img.shields.io/badge/-angularjs-722F37?style=for-the-badge&labelColor=black&logo=angularjs&logoColor=722F37)](#) -->
 
  [![CELERY BADGE](https://img.shields.io/badge/-celery-8db600?style=for-the-badge&labelColor=black&logo=celery&logoColor=8db600)](#)
 ![Linux](https://img.shields.io/badge/-Linux-darkcyan?logo=Linux&logoColor=black&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=Docker&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-white?logo=Git&logoColor=f01313&style=for-the-badge)
+ 
+<!--  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?logo=Kubernetes&logoColor=fafafa&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-f30b0b?style=for-the-badge&logo=Ansible)
+![terraform](https://img.shields.io/badge/-terraform-blueviolet?style=for-the-badge&logo=Terraform)
+![kafka](https://img.shields.io/badge/-kafka-555555?style=for-the-badge&logo=Apache%20Kafka) -->
 
  
  
 
 ⚡ I'M CURRENTLY LEARNING
-  
+  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
   
 <!-- 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
