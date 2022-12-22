@@ -28,16 +28,25 @@ Here are some ideas to get you started:
 ⚡ TECH I HAVE WORKED/WORKING ON 
 
 
-[![DJANGO BADGE](https://img.shields.io/badge/-django-8db600?style=for-the-badge&labelColor=black&logo=django&logoColor=8db600)](#)[![DRF](https://img.shields.io/badge/-djangorestframework-ADD8E6?style=for-the-badge&labelColor=black&logo=djangorestframework&logoColor=8db600)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![PYTHON Badge](https://img.shields.io/badge/-python-ADD8E6?style=for-the-badge&labelColor=black&logo=python&logoColor=ADD8E6F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Expressjs Badge](https://img.shields.io/badge/-expressjs-CCCC00?style=for-the-badge&labelColor=black&logo=node.js&logoColor=CCCC00)](#) 
-[![Angularjs Badge](https://img.shields.io/badge/-angularjs-722F37?style=for-the-badge&labelColor=black&logo=angularjs&logoColor=722F37)](#)
-[![CELERY BADGE](https://img.shields.io/badge/-celery-8db600?style=for-the-badge&labelColor=black&logo=celery&logoColor=8db600)](#)
+ [![PYTHON Badge](https://img.shields.io/badge/-python-ADD8E6?style=for-the-badge&labelColor=black&logo=python&logoColor=ADD8E6F)](#)
+ [![DJANGO BADGE](https://img.shields.io/badge/-django-8db600?style=for-the-badge&labelColor=black&logo=django&logoColor=8db600)](#)
+ [![DRF](https://img.shields.io/badge/-djangorestframework-ADD8E6?style=for-the-badge&labelColor=black&logo=djangorestframework&logoColor=8db600)](#)
+ [![Flask](https://img.shields.io/badge/-flask-white?style=for-the-badge&labelColor=black&logo=flask&logoColor=ADD8E6F)](#)
+ 
+ [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+ [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+ [![Expressjs Badge](https://img.shields.io/badge/-expressjs-CCCC00?style=for-the-badge&labelColor=black&logo=node.js&logoColor=CCCC00)](#)
+ [![mongodb](https://img.shields.io/badge/-mongodb-008000?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=ADD8E6F)](#)
+ [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+<!-- [![Angularjs Badge](https://img.shields.io/badge/-angularjs-722F37?style=for-the-badge&labelColor=black&logo=angularjs&logoColor=722F37)](#) -->
+
+ [![CELERY BADGE](https://img.shields.io/badge/-celery-8db600?style=for-the-badge&labelColor=black&logo=celery&logoColor=8db600)](#)
 ![Linux](https://img.shields.io/badge/-Linux-darkcyan?logo=Linux&logoColor=black&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=Docker&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-white?logo=Git&logoColor=f01313&style=for-the-badge)
- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
- [![Flask](https://img.shields.io/badge/-flask-white?style=for-the-badge&labelColor=black&logo=flask&logoColor=ADD8E6F)](#) 
- [![mongodb](https://img.shields.io/badge/-mongodb-008000?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=ADD8E6F)]
+
+ 
+ 
 
 ⚡ I'M CURRENTLY LEARNING
   
