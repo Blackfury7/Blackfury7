@@ -32,6 +32,7 @@ Here are some ideas to get you started:
  [![DJANGO BADGE](https://img.shields.io/badge/-django-8db600?style=for-the-badge&labelColor=black&logo=django&logoColor=8db600)](#)
  [![DRF](https://img.shields.io/badge/-djangorestframework-ADD8E6?style=for-the-badge&labelColor=black&logo=djangorestframework&logoColor=8db600)](#)
  [![Flask](https://img.shields.io/badge/-flask-white?style=for-the-badge&labelColor=black&logo=flask&logoColor=ADD8E6F)](#)
+  [![MYSQL BADGE](https://img.shields.io/badge/-mysql-8db600?style=for-the-badge&labelColor=black&logo=mysql&logoColor=8db600)](#)
  
  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
