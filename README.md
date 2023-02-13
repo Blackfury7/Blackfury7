@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <h2><b><u> CONNECT WITH ME!!</u>
 
 [![Linkedin Badge](https://img.shields.io/badge/-DivyanshuSharma-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-sharma19/)<br>
+ 
 <!-- [![GMAIL Badge](https://img.shields.io/badge/-DivyanshuSharma-FF0000?style=for-the-badge&labelColor=&logo=gmail&logoColor=white)](divyanshusharmabb07@gmail.com) -->
 
 
