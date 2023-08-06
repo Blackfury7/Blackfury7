@@ -10,9 +10,10 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on a **B2C E-com Project** -->
 - 🌱 I’m currently learning about **CLOUD**
-- 👯 I’m looking to collaborate on **Python/Django Projects**
+- 👯 I’m looking to collaborate on **Web Projects**
 - 📫 How to reach me **divyanshusharmabb07@gmail.com**
 - ⚡ Fun fact: I like to play **basketball & football**
+- 😄 Check out my [Portfolio](https://divyanshusharma-portfolio.netlify.app/)  
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
