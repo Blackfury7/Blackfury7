@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- - 🔭 I’m currently working on a **B2C E-com Project** -->
-- 🌱 I’m currently learning about **CLOUD**
+- 🌱 I’m currently learning **CLOUD**
 - 👯 I’m looking to collaborate on **Web Projects**
 - 😄 Check out my [Portfolio](https://divyanshusharma-portfolio.netlify.app/)
 - 📫 How to reach me **divyanshusharmabb07@gmail.com**
