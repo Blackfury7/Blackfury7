@@ -2,11 +2,6 @@
 ![Hi, I'm Divyanshu I'm a DJANGO developer](https://github.com/Blackfury7/Blackfury7/blob/main/assets/gojo1.gif)
 <br><br>
 
-<!--
-**Blackfury7/Blackfury7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 
 <!-- - 🔭 I’m currently working on a **B2C E-com Project** -->
 - 🌱 I’m currently learning **CLOUD**
