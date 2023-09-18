@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+
 ![Hi, I'm Divyanshu I'm a DJANGO developer](https://github.com/Blackfury7/Blackfury7/blob/main/assets/gojo1.gif)
 <br><br>
 
