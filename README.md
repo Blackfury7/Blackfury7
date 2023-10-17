@@ -33,6 +33,7 @@
   [![MYSQL BADGE](https://img.shields.io/badge/-mysql-8db600?style=for-the-badge&labelColor=black&logo=mysql&logoColor=8db600)](#)
  
  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
  [![Expressjs Badge](https://img.shields.io/badge/-expressjs-CCCC00?style=for-the-badge&labelColor=black&logo=node.js&logoColor=CCCC00)](#)
  [![mongodb](https://img.shields.io/badge/-mongodb-008000?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=ADD8E6F)](#)
